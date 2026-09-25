@@ -1,0 +1,6 @@
+{
+  "name": "Z MUSIC | Jakarta Live Music Venue",
+  "description": "Z MUSIC is a 500-capacity independent live music venue in Jakarta, SYN hosting nightly indie, rock, electronic, and all-ages shows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
